@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello thsi is new line added
+=======
+the need for Github
+Developers need a web cloud based code hosting platform
+>>>>>>> ea94384bdcd94d22e26ef8f3eadd07d1f60b3d8f
